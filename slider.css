@@ -1,0 +1,9 @@
+.slider {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.slider .img-pl {
+    width: 200px;
+    height: 200px;
+}
